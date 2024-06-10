@@ -1,0 +1,124 @@
+level,level_name,field_of_study,academic_field
+bachelor,bachelor,"b communications public relations, marketing",marketing
+bachelor,bachelor,"b sc, chemistry general",chemistry
+bachelor,bachelor,"b eng, electrical engineering",electrical engineering
+bachelor,bachelor,"b sc, computer science networking techniques and management of information systems",computer science
+bachelor,bachelor,"b a 2nd upper class honours, history",history
+bachelor,bachelor,"b a hons 2nd upper, english literature",english literature
+bachelor,bachelor,"b a, computer science",computer science
+bachelor,bachelor,"b e, computer science",computer science
+bachelor,bachelor,"b e cs, computer science",computer science
+bachelor,bachelor,"b eng, electrical engineering",electrical engineering
+bachelor,bachelor,"b s, electrical engineering",electrical engineering
+bachelor,bachelor,b s,business administration
+bachelor,bachelor,"b s e, computer science in engineering",computer science
+bachelor,bachelor,"b sc, computer science",computer science
+bachelor,bachelor,"b sc e, electrical engineering",electrical engineering
+bachelor,bachelor,"b tech, human resources management personnel administration, general",human resources
+bachelor,bachelor hons,"ba hons, arabic and middle east studies",languages and literature
+bachelor,bachelor hons,"ba hons, human geography",human geography
+bachelor,bachelor hons,"ba hons, media studies",media studies
+bachelor,bachelor,"ba, asian studies",asian studies
+bachelor,bachelor,"ba, economics",economics
+bachelor,bachelor,"ba, economics and commerce",economics
+bachelor,bachelor,"ba, economics, political science, psychology",psychology
+bachelor,bachelor,"ba, english",languages and literature
+bachelor,bachelor,"ba, english and history",languages and literature
+bachelor,bachelor,"ba, english and world literature music",languages and literature
+bachelor,bachelor,"ba, english language and literature letters",languages and literature
+bachelor,bachelor,"ba, english literature journalism and mass media",journalism
+bachelor,bachelor,"ba, international relations",international relations
+bachelor,bachelor,"ba, political science",political science
+bachelor,bachelor,bachelor honours in business management with communications,business management
+bachelor,bachelor,"bachelor degree, business management and accountancy",business management
+bachelor,bachelor,"bachelor degree graduate diploma, computer science engineering",computer science
+bachelor,bachelor,"bachelor in arts and science, specialisation in communications studies, television production minor in political science",performing arts
+bachelor,bachelor,"bachelor in business adminstration, business administration",business administration
+bachelor,bachelor,"bachelor in business management, operations management analytics and strategic management",business management
+bachelor,bachelor,bachelor in communication and media studies,media studies
+bachelor,bachelor,bachelor of accountancy and business marketing,accounting
+bachelor,bachelor,"bachelor of accountancy with honours, accountancy",accounting
+bachelor,bachelor,"bachelor of accountancy, 2nd major in analytics accounting",accounting
+bachelor,bachelor,"bachelor of accountancy, accounting",accounting
+bachelor,bachelor,"bachelor of accountancy, accounting and finance",accounting
+bachelor,bachelor,"bachelor of applied engineering, civil engineering",civil engineering
+bachelor,bachelor,"bachelor of arts ba honours, political science",political science
+bachelor,bachelor,"bachelor of arts ba, business management",business management
+bachelor,bachelor,"bachelor of arts ba, communication and media studies",media studies
+bachelor,bachelor,"bachelor of arts ba, communication and media, journalism",media studies
+bachelor,bachelor,"bachelor of arts ba, communications and new media",media studies
+bachelor,bachelor,"bachelor of arts ba, design and visual communications, general",languages and literature
+bachelor,bachelor,"bachelor of arts ba, english language",languages and literature
+bachelor,bachelor,"bachelor of arts ba, english language and literature, general",languages and literature
+bachelor,bachelor,"bachelor of arts ba, english language and literature letters with an emphasis in creative writing",languages and literature
+bachelor,bachelor,"bachelor of arts ba, language and communication",languages and literature
+bachelor,bachelor,"bachelor of arts ba, linguistics",languages and literature
+bachelor,bachelor,"bachelor of arts ba, mass communication media studies",media studies
+bachelor,bachelor,"bachelor of arts ba, philosophy",philosophy
+bachelor,bachelor,"bachelor of arts ba, philosophy and politics",philosophy
+bachelor,bachelor,"bachelor of arts ba, public relations and marketing",marketing
+bachelor,bachelor,"bachelor of arts ba, sociology",sociology
+bachelor,bachelor,"bachelor of arts b a honours, business and management",business management
+bachelor,bachelor,"bachelor of arts b a, business and human resources management",human resources
+bachelor,bachelor,"bachelor of arts b a, communication and media studies",media studies
+bachelor,bachelor,"bachelor of arts b a, computer science",computer science
+bachelor,bachelor,"bachelor of arts b a, double major in communication and media studies, economics",media studies
+bachelor,bachelor,"bachelor of arts b a, economics",economics
+bachelor,bachelor,"bachelor of arts b a, economics, sociology",sociology
+bachelor,bachelor,"bachelor of arts b a, english literature british and commonwealth",english literature
+bachelor,bachelor,"bachelor of arts b a, finance",finance
+bachelor,bachelor,"bachelor of arts b a, law and management science",law
+bachelor,bachelor,"bachelor of arts b a, marketing",marketing
+bachelor,bachelor,"bachelor of arts b a, mass communication media studies",media studies
+bachelor,bachelor,"bachelor of arts b a, psychology",psychology
+bachelor,bachelor,"bachelor of arts ba honours, psychology",psychology
+bachelor,bachelor,"bachelor of arts ba, anthropology",anthropology
+bachelor,bachelor,"bachelor of arts ba, economics",economics
+bachelor,bachelor,"bachelor of arts ba, sociology",sociology
+bachelor,bachelor,"bachelor of arts and social sciences, political science, philosophy, english literature",english literature
+bachelor,bachelor,"bachelor of arts and social sciences ba hons, psychology",psychology
+bachelor,bachelor,"bachelor of arts with merit, political science",political science
+bachelor,bachelor,"bachelor of arts, economics",economics
+bachelor,bachelor,"bachelor of arts, political science",political science
+bachelor,bachelor,"bachelor of business honours, marketing",marketing
+bachelor,bachelor,"bachelor of business hons, marketing",marketing
+bachelor,bachelor,"bachelor of business marketing, marketing",marketing
+bachelor,bachelor,"bachelor of business administration bba, accounting, operations management",operations management
+bachelor,bachelor,"bachelor of business administration bba, information management internet service and social networks",information management
+bachelor,bachelor,"bachelor of business administration bba, marketing",marketing
+bachelor,bachelor,"bachelor of business administration b b a magna cum laude, marketing",marketing
+bachelor,bachelor,"bachelor of business administration b b a with merit, marketing",marketing
+bachelor,bachelor,"bachelor of business administration b b a, business administration",business administration
+bachelor,bachelor,"bachelor of business administration b b a, business administration and management, general",business administration
+bachelor,bachelor,"bachelor of business administration b b a, business economics international business",business administration
+bachelor,bachelor,"bachelor of business administration b b a, business operations management",business administration
+bachelor,bachelor,"bachelor of business administration b b a, business, management and marketing",marketing
+bachelor,bachelor,"bachelor of business administration b b a, business, management, marketing, and related support services",business
+bachelor,bachelor,"bachelor of business administration b b a, marketing",marketing
+bachelor,bachelor,"bachelor of business administration b b a, marketing and human resource management",human resources
+bachelor,bachelor,"bachelor of business administration b b a, marketing and technopreneurship",marketing
+bachelor,bachelor,"bachelor of business administration b b a, marketing major",marketing
+bachelor,bachelor,"bachelor of business administration b b a, marketing marketing management, general",marketing
+bachelor,bachelor,"bachelor of business administration bba first class honours, tourism and hospitality management, human resources consulting",human resources
+bachelor,bachelor,"bachelor of business administration bba, accounting",accounting
+bachelor,bachelor,"bachelor of business administration bba, business",business
+bachelor,bachelor,"bachelor of business administration bba, human resources development",human resources
+bachelor,bachelor,"bachelor of business administration bba, human resources management and services",human resources
+bachelor,bachelor,"bachelor of business administration bba, marketing",marketing
+bachelor,bachelor,bachelor of business administration honors,business
+bachelor,bachelor,bachelor of business management,business management
+bachelor,bachelor,"bachelor of business management bbm, finance",business management
+bachelor,bachelor,"bachelor of business management bbm, marketing",business management
+bachelor,bachelor,"bachelor of business management, business administration and management, general",business management
+bachelor,bachelor,"bachelor of business management bbm, finance",finance
+bachelor,bachelor,"bachelor of business management bbm, finance major",business
+bachelor,bachelor,"bachelor of business management bbm, marketing and finance",business management
+bachelor,bachelor,"bachelor of business management honours, marketing and corporate communications",business
+bachelor,bachelor,"bachelor of business management hons, human resource, management and marketing",business management
+bachelor,bachelor,"bachelor of business management, double majors in finance and corporate communications",business management
+bachelor,bachelor,"bachelor of business management, investment finance and strategic management, cum laude",business management
+bachelor,bachelor,"bachelor of business management, marketing",business management
+bachelor,bachelor,"bachelor of business management, marketing and corporate communications",business management
+bachelor,bachelor,"bachelor of business management, marketing and operations management",business management
+bachelor,bachelor,"bachelor of business management, marketing corporate communication",business management
+bachelor,bachelor,"bachelor of business management, organisational behaviour and human resources",human resources
