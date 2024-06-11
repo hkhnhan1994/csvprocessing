@@ -1,376 +1,376 @@
-,level,level_name,field_of_study,academic_field,academic_field_imputed
-0,,,"marketing marketing management, general",marketing,marketing
-1,,,wellness counseling certificate,,<NA>
-2,,,"ba hons fashion, fashion apparel design",,None
-3,,,"ba liberal arts, liberal arts and sciences liberal studies",,<NA>
-4,,,career certificate of marketing,,<NA>
-5,,,"1st class honour, information system and computing",,<NA>
-6,,,"2 1, business management",business management,business management
-7,,,"2 1, french and hispanic studies",,<NA>
-8,,,"2 1, graphic design and illustration",,<NA>
-9,,,"2 1, management",,<NA>
-10,,,"2nd lower honours, management",,<NA>
-11,,,a level,,<NA>
-12,,,"academic qualification, computer science and business administration",computer science,computer science
-13,,,"acca, accounting",accounting,accounting
-14,,,"accelerated development program, general management leadership",,<NA>
-15,,,accountancy and finance,accounting,accounting
-16,,,accounting,accounting,accounting
-17,,,accounting and finance,accounting,accounting
-18,,,accounting and business management,accounting,accounting
-19,,,accounting and finance,accounting,accounting
-20,,,"accounting and management bsc hons, business and management",accounting,accounting
-21,,,"accredited editor ae, professionally qualified editor",,<NA>
-22,,,"acma, management accounting",,<NA>
-23,,,"acma, management accounting",accounting,accounting
-24,diploma,,"advance diploma in accounting and business, accounting and business management",accounting,accounting
-25,diploma,,"advance diploma in computer study, management information systems, general",,<NA>
-26,diploma,,"advance diploma of multimedia design, multimedia design",,<NA>
-27,,,"advance management program, leadership",,<NA>
-28,,,"advanced certificate, practical counselling",,<NA>
-29,,,"advanced certification program in cyber security iit kanpur, cyber security",,<NA>
-30,,,"advanced degree in political science, international politics",,<NA>
-31,diploma,,advanced diploma of aviation,,<NA>
-32,diploma,,"advanced diploma of electrical engineering, power distribution",electrical engineering,electrical engineering
-33,diploma,,"advanced diploma, business administration and management",business management,business management
-34,diploma,,"advanced diploma, business management",business management,business management
-35,diploma,,"advanced diploma, electrical, electronic and communications engineering technology technician",,<NA>
-36,diploma,,"advanced diploma, information systems",,<NA>
-37,diploma,,"advanced diploma, visual communications graphic design",,<NA>
-38,,,"advanced international certificate in aml, money laundering",,<NA>
-39,,,"advanced management program amp 199, advanced management and leadership",,<NA>
-40,,,"advanced management program, management",,<NA>
-41,,,"advanced master s degree, strategy and management of international affairs",,<NA>
-42,,,advancing next gen leaders program,,<NA>
-43,,,"aerospace, aeronautical and astronautical space engineering",,<NA>
-44,,,"agile coaching, scrum",,<NA>
-45,,,agricultural engineering,,<NA>
-46,,,altmba37,,<NA>
-47,,,applied mathematics,applied mathematics,applied mathematics
-48,,,architechture,architecture and design,architecture and design
-49,,,architecture,architecture and design,architecture and design
-50,,,"artificial intelligence, marketing marketing management, general",,<NA>
-51,,,"artificial intelligence business strategies and applications, executive certification",,<NA>
-52,,,artificial intelligence implications for business strategy program,,<NA>
-53,,,"arts and festival management, arts and festival management",,<NA>
-54,,,"as, paralegal",,<NA>
-55,,,asset management,,<NA>
-56,,,associate member at cpa australia,,<NA>
-57,,,"associate of science as, journalism",,<NA>
-58,,,"associate s degree, business, management, marketing, and related support services",,<NA>
-59,,,"associate s degree, room division",,<NA>
-60,,,"associate s degree, tourism and marketing",,<NA>
-61,,,"assoicate estate planning practitioner, estate planning",,<NA>
-62,,,aw 27,,<NA>
-63,bachelor,bachelor,"b app sc ce, computer engineering",,<NA>
-64,bachelor,bachelor,"b communications public relations, marketing",marketing,marketing
-65,bachelor,bachelor,"b sc, chemistry general",chemistry,chemistry
-66,bachelor,bachelor,"b soc sci, communications and new media",,<NA>
-67,bachelor,bachelor,"b tech, telecommunication",,<NA>
-68,bachelor,bachelor,"b, hotelmanagement, business administration",,<NA>
-69,bachelor,bachelor,"b eng, electrical engineering",electrical engineering,electrical engineering
-70,bachelor,bachelor,"b sc, computer science networking techniques and management of information systems",computer science,computer science
-71,bachelor,bachelor,"b sc hbp architecture, architecture",,<NA>
-72,bachelor,bachelor,"b a 2nd upper class honours, history",history,history
-73,bachelor,bachelor,"b a hons m eng, electrical and electronic engineering",,<NA>
-74,bachelor,bachelor,"b a honours, business administration with major in economics and international finance",,<NA>
-75,bachelor,bachelor,"b a hons 2nd upper, english literature",english literature,english literature
-76,bachelor,bachelor,"b a hons in english language and literature, english language and literature, general",,<NA>
-77,bachelor,bachelor,"b a journalism and mass communications, journalism and mass communications",,<NA>
-78,bachelor,bachelor,"b a, business economics",,<NA>
-79,bachelor,bachelor,"b a, computer science",computer science,computer science
-80,bachelor,bachelor,"b a, foreign trade",,<NA>
-81,bachelor,bachelor,"b a, japanese",,<NA>
-82,bachelor,bachelor,"b a, psychology, journalism",,<NA>
-83,bachelor,bachelor,b a policy management,,<NA>
-84,bachelor,bachelor,"b bus, business information systems",,<NA>
-85,bachelor,bachelor,"b com, banking and finance",,<NA>
-86,bachelor,bachelor,"b comp, information systems",,<NA>
-87,bachelor,bachelor,"b e, computer science",computer science,computer science
-88,bachelor,bachelor,"b e, computer technology",,<NA>
-89,bachelor,bachelor,"b e cs, computer science",computer science,computer science
-90,bachelor,bachelor,"b e, electronics",,<NA>
-91,bachelor,bachelor,"b eng hons, electrical and electronic engineering",,<NA>
-92,bachelor,bachelor,"b eng, computer engineering with a minor in business",,<NA>
-93,bachelor,bachelor,"b eng, electrical engineering",electrical engineering,electrical engineering
-94,bachelor,bachelor,"b s, electrical engineering",electrical engineering,electrical engineering
-95,bachelor,bachelor,"b s, finance and financial management services",,<NA>
-96,bachelor,bachelor,b s,business administration,business administration
-97,bachelor,bachelor,"b s and mba, economics and organizational leadership",,<NA>
-98,bachelor,bachelor,"b s business administration, leed s school of business",,<NA>
-99,bachelor,bachelor,"b s marketing, statistics, business administration",,<NA>
-100,bachelor,bachelor,"b s, management",,<NA>
-101,bachelor,bachelor,"b s e, computer science in engineering",computer science,computer science
-102,bachelor,bachelor,"b sc real estate, real estate",,<NA>
-103,bachelor,bachelor,"b sc, biochemistry with biotechnology and molecular genetics",,<NA>
-104,bachelor,bachelor,"b sc, mechanical engineering, industrial operational management and business administration",,<NA>
-105,bachelor,bachelor,"b sc statistics, economics, math s, english and french",,<NA>
-106,bachelor,bachelor hons,b sc hons of food science and technology,,<NA>
-107,bachelor,bachelor hons,"b sc hons, international hospitality management",,<NA>
-108,bachelor,bachelor hons,"b sc hons, international management",,<NA>
-109,bachelor,bachelor,"b sc, computer science",computer science,computer science
-110,bachelor,bachelor,"b sc e, electrical engineering",electrical engineering,electrical engineering
-111,bachelor,bachelor,"b tech, engineering",,<NA>
-112,bachelor,bachelor,"b tech, human resources management personnel administration, general",human resources,human resources
-113,bachelor,bachelor,ba,,<NA>
-114,bachelor,bachelor hons,"ba hons, graphic design",,<NA>
-115,bachelor,bachelor hons,"ba hons accounting and finance, accounting and finance",,<NA>
-116,bachelor,bachelor hons,"ba hons fashion pattern cutting, fashion apparel design",,<NA>
-117,bachelor,bachelor hons,ba hons history,,<NA>
-118,bachelor,bachelor hons,"ba hons of business and human resource management, hrm",,<NA>
-119,bachelor,bachelor hons,"ba hons, arabic and middle east studies",languages and literature,languages and literature
-120,bachelor,bachelor hons,"ba hons, business studies",,<NA>
-121,bachelor,bachelor hons,"ba hons, business, major in marketing",,<NA>
-122,bachelor,bachelor hons,"ba hons, communication and media",,<NA>
-123,bachelor,bachelor hons,"ba hons, european business",,<NA>
-124,bachelor,bachelor hons,"ba hons, first class",,<NA>
-125,bachelor,bachelor hons,"ba hons, graphic communication",,<NA>
-126,bachelor,bachelor hons,"ba hons, human geography",human geography,human geography
-127,bachelor,bachelor hons,"ba hons, media studies",media studies,media studies
-128,bachelor,bachelor hons,"ba hons, politics and law",,<NA>
-129,bachelor,bachelor hons,"ba hons, psychology with health studies",,<NA>
-130,bachelor,bachelor hons,"ba business organisation hons, business administration and management, general",,<NA>
-131,bachelor,bachelor,"ba european languages, spanish language and literature",,<NA>
-132,bachelor,bachelor,"ba honours and btec diploma holder, london university of the arts london institute",,<NA>
-133,bachelor,bachelor hons,"ba hons, business and law",,<NA>
-134,bachelor,bachelor hons,"ba hons, graphic design",,<NA>
-135,bachelor,bachelor hons,"ba hons, linguistics",,<NA>
-136,bachelor,bachelor,"ba in marketing and the media, marketing marketing management, general",,<NA>
-137,bachelor,bachelor,"ba media communication, currently completing",,<NA>
-138,bachelor,bachelor,ba philosophy,,<NA>
-139,bachelor,bachelor,"ba, asian studies",asian studies,asian studies
-140,bachelor,bachelor,"ba, business economics",,<NA>
-141,bachelor,bachelor,"ba, communication arts, english",,<NA>
-142,bachelor,bachelor,"ba, communications, pr",,<NA>
-143,bachelor,bachelor,"ba, economics",economics,economics
-144,bachelor,bachelor,"ba, economics and commerce",economics,economics
-145,bachelor,bachelor,"ba, economics, political science, psychology",psychology,psychology
-146,bachelor,bachelor,"ba, english",languages and literature,languages and literature
-147,bachelor,bachelor,"ba, english and history",languages and literature,languages and literature
-148,bachelor,bachelor,"ba, english and world literature music",languages and literature,languages and literature
-149,bachelor,bachelor,"ba, english language and literature letters",languages and literature,languages and literature
-150,bachelor,bachelor,"ba, english literature journalism and mass media",journalism,journalism
-151,bachelor,bachelor,"ba, international relations",international relations,international relations
-152,bachelor,bachelor,"ba, international studies european studies",,<NA>
-153,bachelor,bachelor,"ba, political science",political science,political science
-154,bachelor,bachelor,"ba, social sciences business and management",,<NA>
-155,bachelor,bachelor hons,ba hons in business administration,,<NA>
-156,bachelor,bachelor hons,ba hons international business,,<NA>
-157,bachelor,bachelor hons,"ba hons product design, industrial and product design",,<NA>
-158,bachelor,bachelor hons,"ba hons, advertising design",,<NA>
-159,bachelor,bachelor,"bachelor 2nd upper, communication studies",,<NA>
-160,bachelor,bachelor,bachelor honours in business management with communications,business management,business management
-161,bachelor,bachelor,"bachelor degree in business administration, human resource management",,<NA>
-162,bachelor,bachelor,bachelor degree in businessit and management,,<NA>
-163,bachelor,bachelor,bachelor degree in mass communication,,<NA>
-164,bachelor,bachelor,"bachelor degree, business management and accountancy",business management,business management
-165,bachelor,bachelor,"bachelor degree, business studies marketing",,<NA>
-166,bachelor,bachelor,"bachelor degree, public relations image management",,<NA>
-167,bachelor,bachelor,"bachelor degree graduate diploma, computer science engineering",computer science,computer science
-168,bachelor,bachelor,"bachelor in arts and science, specialisation in communications studies, television production minor in political science",performing arts,performing arts
-169,bachelor,bachelor,"bachelor in business administration b b a, international marketing tvu",,<NA>
-170,bachelor,bachelor,"bachelor in business adminstration, business administration",business administration,business administration
-171,bachelor,bachelor,"bachelor in business management, operations management analytics and strategic management",business management,business management
-172,bachelor,bachelor,bachelor in communication and media studies,media studies,media studies
-173,bachelor,bachelor,"bachelor in film and tv, bachelor in film and tv",,<NA>
-174,bachelor,bachelor,"bachelor in graphic design, graphic design",,<NA>
-175,bachelor,bachelor,bachelor in mechanical engineering,,<NA>
-176,bachelor,bachelor,"bachelor in occupational safety and health with honor, safety",,<NA>
-177,bachelor,bachelor,"bachelor in science honours management, marketing marketing management, general",,<NA>
-178,bachelor,bachelor,"bachelor in technology, information technology",,<NA>
-179,bachelor,bachelor,bachelor of accountancy and business marketing,accounting,accounting
-180,bachelor,bachelor,"bachelor of accountancy with honours, accountancy",accounting,accounting
-181,bachelor,bachelor,"bachelor of accountancy, 2nd major in analytics accounting",accounting,accounting
-182,bachelor,bachelor,"bachelor of accountancy, accounting",accounting,accounting
-183,bachelor,bachelor,"bachelor of accountancy, accounting and finance",accounting,accounting
-184,bachelor,bachelor,"bachelor of agriculture, agronomy",,<NA>
-185,bachelor,bachelor,"bachelor of applied engineering, civil engineering",civil engineering,civil engineering
-186,bachelor,bachelor,"bachelor of applied science basc, computer and information sciences and support services",,<NA>
-187,bachelor,bachelor,"bachelor of applied science b a sc, business administration and management, general",,<NA>
-188,bachelor,bachelor,"bachelor of applied science b a sc, business, economics and social sciences",,<NA>
-189,bachelor,bachelor,"bachelor of applied science b a sc, communication studies",,<NA>
-190,bachelor,bachelor,"bachelor of applied science b a sc, computer engineering",,<NA>
-191,bachelor,bachelor,"bachelor of applied science b a sc, electrical and electronics engineering",,<NA>
-192,bachelor,bachelor,"bachelor of applied science basc, business, management, marketing, and related support services",,<NA>
-193,bachelor,bachelor,bachelor of arts ba,,<NA>
-194,bachelor,bachelor,"bachelor of arts ba honours, political science",political science,political science
-195,bachelor,bachelor,"bachelor of arts ba hons, international global studies",,<NA>
-196,bachelor,bachelor,"bachelor of arts ba, art history, french",,<NA>
-197,bachelor,bachelor,"bachelor of arts ba, business administration and management, general",,<NA>
-198,bachelor,bachelor,"bachelor of arts ba, business administration, management and operations",,<NA>
-199,bachelor,bachelor,"bachelor of arts ba, business management",business management,business management
-200,bachelor,bachelor,"bachelor of arts ba, business with human resource management",,<NA>
-201,bachelor,bachelor,"bachelor of arts ba, communication and media studies",media studies,media studies
-202,bachelor,bachelor,"bachelor of arts ba, communication and media, journalism",media studies,media studies
-203,bachelor,bachelor,"bachelor of arts ba, communications and new media",media studies,media studies
-204,bachelor,bachelor,"bachelor of arts ba, design and visual communications, general",languages and literature,languages and literature
-205,bachelor,bachelor,"bachelor of arts ba, english language",languages and literature,languages and literature
-206,bachelor,bachelor,"bachelor of arts ba, english language and literature, general",languages and literature,languages and literature
-207,bachelor,bachelor,"bachelor of arts ba, english language and literature letters with an emphasis in creative writing",languages and literature,languages and literature
-208,bachelor,bachelor,"bachelor of arts ba, history minor in communication studies",,<NA>
-209,bachelor,bachelor,"bachelor of arts ba, international business",,<NA>
-210,bachelor,bachelor,"bachelor of arts ba, international relations and affairs",,<NA>
-211,bachelor,bachelor,"bachelor of arts ba, journalism",,<NA>
-212,bachelor,bachelor,"bachelor of arts ba, language and communication",languages and literature,languages and literature
-213,bachelor,bachelor,"bachelor of arts ba, linguistics",languages and literature,languages and literature
-214,bachelor,bachelor,"bachelor of arts ba, mass communication media studies",media studies,media studies
-215,bachelor,bachelor,"bachelor of arts ba, oriental languages and cultures",,<NA>
-216,bachelor,bachelor,"bachelor of arts ba, philosophy",philosophy,philosophy
-217,bachelor,bachelor,"bachelor of arts ba, philosophy and politics",philosophy,philosophy
-218,bachelor,bachelor,"bachelor of arts ba, public relations and marketing",marketing,marketing
-219,bachelor,bachelor,"bachelor of arts ba, sociology",sociology,sociology
-220,bachelor,bachelor,"bachelor of arts ba, theatre theater",,<NA>
-221,bachelor,bachelor,"bachelor of arts ba, tourism and events management hospitality and tourism management",,<NA>
-222,bachelor,bachelor,"bachelor of arts ba, translation",,<NA>
-223,bachelor,bachelor,"bachelor of arts ba hons, business with tourism",,<NA>
-224,bachelor,bachelor,bachelor of arts b a,,<NA>
-225,bachelor,bachelor,"bachelor of arts b a honours, business and management",business management,business management
-226,bachelor,bachelor,"bachelor of arts b a in design communication, graphic design",,<NA>
-227,bachelor,bachelor,"bachelor of arts b a, advertising",,<NA>
-228,bachelor,bachelor,"bachelor of arts b a, advertising and marketing",,<NA>
-229,bachelor,bachelor,"bachelor of arts b a, arts, entertainment, and media management",,<NA>
-230,bachelor,bachelor,"bachelor of arts b a, behavioral studies",,<NA>
-231,bachelor,bachelor,"bachelor of arts b a, business and human resources management",human resources,human resources
-232,bachelor,bachelor,"bachelor of arts b a, business studies",,<NA>
-233,bachelor,bachelor,"bachelor of arts b a, communication and media studies",media studies,media studies
-234,bachelor,bachelor,"bachelor of arts b a, communications",,<NA>
-235,bachelor,bachelor,"bachelor of arts b a, computer science",computer science,computer science
-236,bachelor,bachelor,"bachelor of arts b a, creative writing and english double major with an environmental studies minor",,<NA>
-237,bachelor,bachelor,"bachelor of arts b a, double major in communication and media studies, economics",media studies,media studies
-238,bachelor,bachelor,"bachelor of arts b a, economics",economics,economics
-239,bachelor,bachelor,"bachelor of arts b a, economics, chinese studies, philiosophy",,<NA>
-240,bachelor,bachelor,"bachelor of arts b a, economics, sociology",sociology,sociology
-241,bachelor,bachelor,"bachelor of arts b a, english language and literature, general",,<NA>
-242,bachelor,bachelor,"bachelor of arts b a, english literature british and commonwealth",english literature,english literature
-243,bachelor,bachelor,"bachelor of arts b a, english literature philosophy",,<NA>
-244,bachelor,bachelor,"bachelor of arts b a, finance",finance,finance
-245,bachelor,bachelor,"bachelor of arts b a, french and german",,<NA>
-246,bachelor,bachelor,"bachelor of arts b a, international studies",,<NA>
-247,bachelor,bachelor,"bachelor of arts b a, international studies economics",,<NA>
-248,bachelor,bachelor,"bachelor of arts b a, law and management science",law,law
-249,bachelor,bachelor,"bachelor of arts b a, major in english, minor in linguistics",,<NA>
-250,bachelor,bachelor,"bachelor of arts b a, marketing",marketing,marketing
-251,bachelor,bachelor,"bachelor of arts b a, mass communication media studies",media studies,media studies
-252,bachelor,bachelor,"bachelor of arts b a, philosophy and english",,<NA>
-253,bachelor,bachelor,"bachelor of arts b a, psychology",psychology,psychology
-254,bachelor,bachelor,"bachelor of arts b a, visual communications design",,<NA>
-255,bachelor,bachelor,"bachelor of arts ba honours, psychology",psychology,psychology
-256,bachelor,bachelor,"bachelor of arts ba, anthropology",anthropology,anthropology
-257,bachelor,bachelor,"bachelor of arts ba, contemporary music studies",,<NA>
-258,bachelor,bachelor,"bachelor of arts ba, economics",economics,economics
-259,bachelor,bachelor,"bachelor of arts ba, english language and literature, general",,<NA>
-260,bachelor,bachelor,"bachelor of arts ba, fiction writing, creative nonfiction, research, photography",,<NA>
-261,bachelor,bachelor,"bachelor of arts ba, graphic communications",,<NA>
-262,bachelor,bachelor,"bachelor of arts ba, ho chi minh city university of technology school of industrial management",,<NA>
-263,bachelor,bachelor,"bachelor of arts ba, politics and international relations",,<NA>
-264,bachelor,bachelor,"bachelor of arts ba, psychology, communications and new media",,<NA>
-265,bachelor,bachelor,"bachelor of arts ba, sociology",sociology,sociology
-266,bachelor,bachelor,"bachelor of arts honors in industrial design, industrial design",,<NA>
-267,bachelor,bachelor,"bachelor of arts honours, arts and social sciences",,<NA>
-268,bachelor,bachelor,"bachelor of arts hons, second upper, english language",,<NA>
-269,bachelor,bachelor,"bachelor of arts hons, english language and literature, general",,<NA>
-270,bachelor,bachelor,"bachelor of arts hons, journalism and mass communication",,<NA>
-271,bachelor,bachelor,"bachelor of arts and bachelor of education, drama and english",,<NA>
-272,bachelor,bachelor,"bachelor of arts and social sciences, political science, philosophy, english literature",english literature,english literature
-273,bachelor,bachelor,"bachelor of arts and social sciences ba hons, psychology",psychology,psychology
-274,bachelor,bachelor,"bachelor of arts and social sciences, communications and new media",,<NA>
-275,bachelor,bachelor,"bachelor of arts and social sciences, english language",,<NA>
-276,bachelor,bachelor,bachelor of arts in psychology with business,,<NA>
-277,bachelor,bachelor,"bachelor of arts with honours, international marketing",,<NA>
-278,bachelor,bachelor,"bachelor of arts with merit, political science",political science,political science
-279,bachelor,bachelor,"bachelor of arts, anthropology and psychology",,<NA>
-280,bachelor,bachelor,"bachelor of arts, communication and media management",,<NA>
-281,bachelor,bachelor,"bachelor of arts, cultural studies",,<NA>
-282,bachelor,bachelor,"bachelor of arts, economics",economics,economics
-283,bachelor,bachelor,"bachelor of arts, economics and political science",,<NA>
-284,bachelor,bachelor,"bachelor of arts, english and journalism",,<NA>
-285,bachelor,bachelor,"bachelor of arts, mass communications",,<NA>
-286,bachelor,bachelor,"bachelor of arts, political science",political science,political science
-287,bachelor,bachelor,bachelor of business honours,,<NA>
-288,bachelor,bachelor,"bachelor of business honours, marketing",marketing,marketing
-289,bachelor,bachelor,"bachelor of business hons, marketing",marketing,marketing
-290,bachelor,bachelor,"bachelor of business marketing, marketing",marketing,marketing
-291,bachelor,bachelor,"bachelor of business admin finance, business administration and management, general",,<NA>
-292,bachelor,bachelor,bachelor of business administration bba,,<NA>
-293,bachelor,bachelor,"bachelor of business administration bba honours, business administration and management, general",,<NA>
-294,bachelor,bachelor,"bachelor of business administration bba hons, business administration",,<NA>
-295,bachelor,bachelor,"bachelor of business administration bba marketing, with a second major in communications and new media",,<NA>
-296,bachelor,bachelor,"bachelor of business administration bba, accounting and business management",,<NA>
-297,bachelor,bachelor,"bachelor of business administration bba, accounting, operations management",operations management,operations management
-298,bachelor,bachelor,"bachelor of business administration bba, banking and finance",,<NA>
-299,bachelor,bachelor,"bachelor of business administration bba, business administration",,<NA>
-300,bachelor,bachelor,"bachelor of business administration bba, business administration and management, general",,<NA>
-301,bachelor,bachelor,"bachelor of business administration bba, business, management, marketing, and related support services",,<NA>
-302,bachelor,bachelor,"bachelor of business administration bba, business corporate communications",,<NA>
-303,bachelor,bachelor,"bachelor of business administration bba, finance and financial management services",,<NA>
-304,bachelor,bachelor,"bachelor of business administration bba, finance, general",,<NA>
-305,bachelor,bachelor,"bachelor of business administration bba, first class honours",,<NA>
-306,bachelor,bachelor,"bachelor of business administration bba, global business and marketing",,<NA>
-307,bachelor,bachelor,"bachelor of business administration bba, information management internet service and social networks",information management,information management
-308,bachelor,bachelor,"bachelor of business administration bba, international business and chinese enterprise",,<NA>
-309,bachelor,bachelor,"bachelor of business administration bba, international business management",,<NA>
-310,bachelor,bachelor,"bachelor of business administration bba, management information systems, general",,<NA>
-311,bachelor,bachelor,"bachelor of business administration bba, marketing",marketing,marketing
-312,bachelor,bachelor,"bachelor of business administration bba, marketing and information system",,<NA>
-313,bachelor,bachelor,"bachelor of business administration bba, marketing communications",,<NA>
-314,bachelor,bachelor,bachelor of business administration finance,,<NA>
-315,bachelor,bachelor,"bachelor of business administration b b a 2007, 2010 international business and marketing",,<NA>
-316,bachelor,bachelor,"bachelor of business administration b b a magna cum laude, marketing",marketing,marketing
-317,bachelor,bachelor,"bachelor of business administration b b a with merit, marketing",marketing,marketing
-318,bachelor,bachelor,"bachelor of business administration b b a, business administration",business administration,business administration
-319,bachelor,bachelor,"bachelor of business administration b b a, business administration and management, general",business administration,business administration
-320,bachelor,bachelor,"bachelor of business administration b b a, business economics international business",business administration,business administration
-321,bachelor,bachelor,"bachelor of business administration b b a, business operations management",business administration,business administration
-322,bachelor,bachelor,"bachelor of business administration b b a, business, management and marketing",marketing,marketing
-323,bachelor,bachelor,"bachelor of business administration b b a, business, management, marketing, and related support services",business,business
-324,bachelor,bachelor,"bachelor of business administration b b a, fiance and banking",,<NA>
-325,bachelor,bachelor,"bachelor of business administration b b a, finance, general",,<NA>
-326,bachelor,bachelor,"bachelor of business administration b b a, international business trade commerce",,<NA>
-327,bachelor,bachelor,"bachelor of business administration b b a, marketing",marketing,marketing
-328,bachelor,bachelor,"bachelor of business administration b b a, marketing and human resource management",human resources,human resources
-329,bachelor,bachelor,"bachelor of business administration b b a, marketing and technopreneurship",marketing,marketing
-330,bachelor,bachelor,"bachelor of business administration b b a, marketing major",marketing,marketing
-331,bachelor,bachelor,"bachelor of business administration b b a, marketing marketing management, general",marketing,marketing
-332,bachelor,bachelor,bachelor of business administration bba,,<NA>
-333,bachelor,bachelor,"bachelor of business administration bba first class honours, tourism and hospitality management, human resources consulting",human resources,human resources
-334,bachelor,bachelor,"bachelor of business administration bba ibgm, global business and finance",,<NA>
-335,bachelor,bachelor,"bachelor of business administration bba, accounting",accounting,accounting
-336,bachelor,bachelor,"bachelor of business administration bba, accounting and finance",,<NA>
-337,bachelor,bachelor,"bachelor of business administration bba, business",business,business
-338,bachelor,bachelor,"bachelor of business administration bba, business administration and management, general",,<NA>
-339,bachelor,bachelor,"bachelor of business administration bba, business managerial economics",,<NA>
-340,bachelor,bachelor,"bachelor of business administration bba, human resources development",human resources,human resources
-341,bachelor,bachelor,"bachelor of business administration bba, human resources management and services",human resources,human resources
-342,bachelor,bachelor,"bachelor of business administration bba, international business and global management",,<NA>
-343,bachelor,bachelor,"bachelor of business administration bba, international business, marketing, management",,<NA>
-344,bachelor,bachelor,"bachelor of business administration bba, marketing",marketing,marketing
-345,bachelor,bachelor,"bachelor of business administration bba, marketing marketing management, general",,<NA>
-346,bachelor,bachelor,"bachelor of business administration bba, professional accounting organizational management",,<NA>
-347,bachelor,bachelor,bachelor of business administration honors,,<NA>
-348,bachelor,bachelor,bachelor of business administration honors,business,business
-349,bachelor,bachelor,"bachelor of business administration honours, accountancy and finance",,<NA>
-350,bachelor,bachelor,"bachelor of business administration honours, business, major in marketing",,<NA>
-351,bachelor,bachelor,"bachelor of business administration hons, operations and supply chain management, and management and human capital",,<NA>
-352,bachelor,bachelor,"bachelor of business administration and analytics bba, business, management, analytics, statistics",,<NA>
-353,bachelor,bachelor,"bachelor of business administration, marketing and management",,<NA>
-354,bachelor,bachelor,"bachelor of business and commerce, accounting and finance",,<NA>
-355,bachelor,bachelor,"bachelor of business and commerce, marketing banking and finance",,<NA>
-356,bachelor,bachelor,"bachelor of business information systems bachelor of business, finance, general",,<NA>
-357,bachelor,bachelor,bachelor of business management,business management,business management
-358,bachelor,bachelor,"bachelor of business management bbm, finance",business management,business management
-359,bachelor,bachelor,"bachelor of business management bbm, marketing",business management,business management
-360,bachelor,bachelor,"bachelor of business management, business administration and management, general",business management,business management
-361,bachelor,bachelor,"bachelor of business management bbm, finance",finance,finance
-362,bachelor,bachelor,"bachelor of business management bbm, finance major",business,business
-363,bachelor,bachelor,"bachelor of business management bbm, marketing and finance",business management,business management
-364,bachelor,bachelor,"bachelor of business management honours, marketing and corporate communications",business,business
-365,bachelor,bachelor,"bachelor of business management hons, human resource, management and marketing",business management,business management
-366,bachelor,bachelor,"bachelor of business management, double majors in finance and corporate communications",business management,business management
-367,bachelor,bachelor,"bachelor of business management, investment finance and strategic management, cum laude",business management,business management
-368,bachelor,bachelor,"bachelor of business management, marketing",business management,business management
-369,bachelor,bachelor,"bachelor of business management, marketing and corporate communications",business management,business management
-370,bachelor,bachelor,"bachelor of business management, marketing and operations management",business management,business management
-371,bachelor,bachelor,"bachelor of business management, marketing corporate communication",business management,business management
-372,bachelor,bachelor,"bachelor of business management, organisational behaviour and human resources",human resources,human resources
-373,bachelor,bachelor,"bachelor of business managment, international business",,<NA>
-374,bachelor,bachelor,"bachelor of business studies, management",,<NA>
+"level","level_name","field_of_study","academic_field","academic_field_imputed"
+"","","marketing marketing management,general","marketing","marketing"
+"","","wellness counseling certificate","","<NA>"
+"","","ba hons fashion,fashion apparel design","","None"
+"","","ba liberal arts,liberal arts and sciences liberal studies","","<NA>"
+"","","career certificate of marketing","","<NA>"
+"","","1st class honour,information system and computing","","<NA>"
+"","","2 1,business management","business management","business management"
+"","","2 1,french and hispanic studies","","<NA>"
+"","","2 1,graphic design and illustration","","<NA>"
+"","","2 1,management","","<NA>"
+"","","2nd lower hons,management","","<NA>"
+"","","a level","","<NA>"
+"","","academic qualification,computer science and business administration","computer science","computer science"
+"","","acca,accounting","accounting","accounting"
+"","","accelerated development program,general management leadership","","<NA>"
+"","","accountancy and finance","accounting","accounting"
+"","","accounting","accounting","accounting"
+"","","accounting and finance","accounting","accounting"
+"","","accounting and business management","accounting","accounting"
+"","","accounting and finance","accounting","accounting"
+"","","accounting and management bsc hons,business and management","accounting","accounting"
+"","","accredited editor ae,professionally qualified editor","","<NA>"
+"","","acma,management accounting","","<NA>"
+"","","acma,management accounting","accounting","accounting"
+"diploma","","advance diploma in accounting and business,accounting and business management","accounting","accounting"
+"diploma","","advance diploma in computer study,management information systems,general","","<NA>"
+"diploma","","advance diploma of multimedia design,multimedia design","","<NA>"
+"","","advance management program,leadership","","<NA>"
+"","","advanced certificate,practical counselling","","<NA>"
+"","","advanced certification program in cyber security iit kanpur,cyber security","","<NA>"
+"","","advanced degree in political science,international politics","","<NA>"
+"diploma","","advanced diploma of aviation","","<NA>"
+"diploma","","advanced diploma of electrical engineering,power distribution","electrical engineering","electrical engineering"
+"diploma","","advanced diploma,business administration and management","business management","business management"
+"diploma","","advanced diploma,business management","business management","business management"
+"diploma","","advanced diploma,electrical,electronic and communications engineering technology technician","","<NA>"
+"diploma","","advanced diploma,information systems","","<NA>"
+"diploma","","advanced diploma,visual communications graphic design","","<NA>"
+"","","advanced international certificate in aml,money laundering","","<NA>"
+"","","advanced management program amp 199,advanced management and leadership","","<NA>"
+"","","advanced management program,management","","<NA>"
+"","","advanced master s degree,strategy and management of international affairs","","<NA>"
+"","","advancing next gen leaders program","","<NA>"
+"","","aerospace,aeronautical and astronautical space engineering","","<NA>"
+"","","agile coaching,scrum","","<NA>"
+"","","agricultural engineering","","<NA>"
+"","","altmba37","","<NA>"
+"","","applied mathematics","applied mathematics","applied mathematics"
+"","","architechture","architecture and design","architecture and design"
+"","","architecture","architecture and design","architecture and design"
+"","","artificial intelligence,marketing marketing management,general","","<NA>"
+"","","artificial intelligence business strategies and applications,executive certification","","<NA>"
+"","","artificial intelligence implications for business strategy program","","<NA>"
+"","","arts and festival management,arts and festival management","","<NA>"
+"","","as,paralegal","","<NA>"
+"","","asset management","","<NA>"
+"","","associate member at cpa australia","","<NA>"
+"","","associate of science as,journalism","","<NA>"
+"","","associate s degree,business,management,marketing,and related support services","","<NA>"
+"","","associate s degree,room division","","<NA>"
+"","","associate s degree,tourism and marketing","","<NA>"
+"","","assoicate estate planning practitioner,estate planning","","<NA>"
+"","","aw 27","","<NA>"
+"bachelor","bachelor","bapp sc ce,computer engineering","","<NA>"
+"bachelor","bachelor","b communications public relations,marketing","marketing","marketing"
+"bachelor","bachelor","bsc,chemistry general","chemistry","chemistry"
+"bachelor","bachelor","bsoc sci,communications and new media","","<NA>"
+"bachelor","bachelor","b tech,telecommunication","","<NA>"
+"bachelor","bachelor","b,hotelmanagement,business administration","","<NA>"
+"bachelor","bachelor","beng,electrical engineering","electrical engineering","electrical engineering"
+"bachelor","bachelor","bsc,computer science networking techniques and management of information systems","computer science","computer science"
+"bachelor","bachelor","bsc hbp architecture,architecture","","<NA>"
+"bachelor","bachelor","ba 2nd upper class hons,history","history","history"
+"bachelor","bachelor","ba hons m eng,electrical and electronic engineering","","<NA>"
+"bachelor","bachelor","ba hons,business administration with major in economics and international finance","","<NA>"
+"bachelor","bachelor","ba hons 2nd upper,english literature","english literature","english literature"
+"bachelor","bachelor","ba hons in english language and literature,english language and literature,general","","<NA>"
+"bachelor","bachelor","ba journalism and mass communications,journalism and mass communications","","<NA>"
+"bachelor","bachelor","ba,business economics","","<NA>"
+"bachelor","bachelor","ba,computer science","computer science","computer science"
+"bachelor","bachelor","ba,foreign trade","","<NA>"
+"bachelor","bachelor","ba,japanese","","<NA>"
+"bachelor","bachelor","ba,psychology,journalism","","<NA>"
+"bachelor","bachelor","ba policy management","","<NA>"
+"bachelor","bachelor","b bus,business information systems","","<NA>"
+"bachelor","bachelor","b com,banking and finance","","<NA>"
+"bachelor","bachelor","b comp,information systems","","<NA>"
+"bachelor","bachelor","be,computer science","computer science","computer science"
+"bachelor","bachelor","be,computer technology","","<NA>"
+"bachelor","bachelor","be cs,computer science","computer science","computer science"
+"bachelor","bachelor","be,electronics","","<NA>"
+"bachelor","bachelor","beng hons,electrical and electronic engineering","","<NA>"
+"bachelor","bachelor","beng,computer engineering with a minor in business","","<NA>"
+"bachelor","bachelor","beng,electrical engineering","electrical engineering","electrical engineering"
+"bachelor","bachelor","bs,electrical engineering","electrical engineering","electrical engineering"
+"bachelor","bachelor","bs,finance and financial management services","","<NA>"
+"bachelor","bachelor","bs","business administration","business administration"
+"bachelor","bachelor","bs and mba,economics and organizational leadership","","<NA>"
+"bachelor","bachelor","bs business administration,leed s school of business","","<NA>"
+"bachelor","bachelor","bs marketing,statistics,business administration","","<NA>"
+"bachelor","bachelor","bs,management","","<NA>"
+"bachelor","bachelor","bse,computer science in engineering","computer science","computer science"
+"bachelor","bachelor","bsc real estate,real estate","","<NA>"
+"bachelor","bachelor","bsc,biochemistry with biotechnology and molecular genetics","","<NA>"
+"bachelor","bachelor","bsc,mechanical engineering,industrial operational management and business administration","","<NA>"
+"bachelor","bachelor","bsc statistics,economics,math s,english and french","","<NA>"
+"bachelor","bachelor hons","bsc hons of food science and technology","","<NA>"
+"bachelor","bachelor hons","bsc hons,international hospitality management","","<NA>"
+"bachelor","bachelor hons","bsc hons,international management","","<NA>"
+"bachelor","bachelor","bsc,computer science","computer science","computer science"
+"bachelor","bachelor","bsc e,electrical engineering","electrical engineering","electrical engineering"
+"bachelor","bachelor","b tech,engineering","","<NA>"
+"bachelor","bachelor","b tech,human resources management personnel administration,general","human resources","human resources"
+"bachelor","bachelor","ba","","<NA>"
+"bachelor","bachelor hons","ba hons,graphic design","","<NA>"
+"bachelor","bachelor hons","ba hons accounting and finance,accounting and finance","","<NA>"
+"bachelor","bachelor hons","ba hons fashion pattern cutting,fashion apparel design","","<NA>"
+"bachelor","bachelor hons","ba hons history","","<NA>"
+"bachelor","bachelor hons","ba hons of business and human resource management,hrm","","<NA>"
+"bachelor","bachelor hons","ba hons,arabic and middle east studies","languages and literature","languages and literature"
+"bachelor","bachelor hons","ba hons,business studies","","<NA>"
+"bachelor","bachelor hons","ba hons,business,major in marketing","","<NA>"
+"bachelor","bachelor hons","ba hons,communication and media","","<NA>"
+"bachelor","bachelor hons","ba hons,european business","","<NA>"
+"bachelor","bachelor hons","ba hons,first class","","<NA>"
+"bachelor","bachelor hons","ba hons,graphic communication","","<NA>"
+"bachelor","bachelor hons","ba hons,human geography","human geography","human geography"
+"bachelor","bachelor hons","ba hons,media studies","media studies","media studies"
+"bachelor","bachelor hons","ba hons,politics and law","","<NA>"
+"bachelor","bachelor hons","ba hons,psychology with health studies","","<NA>"
+"bachelor","bachelor hons","ba business organisation hons,business administration and management,general","","<NA>"
+"bachelor","bachelor","ba european languages,spanish language and literature","","<NA>"
+"bachelor","bachelor","ba hons and btec diploma holder,london university of the arts london institute","","<NA>"
+"bachelor","bachelor hons","ba hons,business and law","","<NA>"
+"bachelor","bachelor hons","ba hons,graphic design","","<NA>"
+"bachelor","bachelor hons","ba hons,linguistics","","<NA>"
+"bachelor","bachelor","ba in marketing and the media,marketing marketing management,general","","<NA>"
+"bachelor","bachelor","ba media communication,currently completing","","<NA>"
+"bachelor","bachelor","ba philosophy","","<NA>"
+"bachelor","bachelor","ba,asian studies","asian studies","asian studies"
+"bachelor","bachelor","ba,business economics","","<NA>"
+"bachelor","bachelor","ba,communication arts,english","","<NA>"
+"bachelor","bachelor","ba,communications,pr","","<NA>"
+"bachelor","bachelor","ba,economics","economics","economics"
+"bachelor","bachelor","ba,economics and commerce","economics","economics"
+"bachelor","bachelor","ba,economics,political science,psychology","psychology","psychology"
+"bachelor","bachelor","ba,english","languages and literature","languages and literature"
+"bachelor","bachelor","ba,english and history","languages and literature","languages and literature"
+"bachelor","bachelor","ba,english and world literature music","languages and literature","languages and literature"
+"bachelor","bachelor","ba,english language and literature letters","languages and literature","languages and literature"
+"bachelor","bachelor","ba,english literature journalism and mass media","journalism","journalism"
+"bachelor","bachelor","ba,international relations","international relations","international relations"
+"bachelor","bachelor","ba,international studies european studies","","<NA>"
+"bachelor","bachelor","ba,political science","political science","political science"
+"bachelor","bachelor","ba,social sciences business and management","","<NA>"
+"bachelor","bachelor hons","ba hons in business administration","","<NA>"
+"bachelor","bachelor hons","ba hons international business","","<NA>"
+"bachelor","bachelor hons","ba hons product design,industrial and product design","","<NA>"
+"bachelor","bachelor hons","ba hons,advertising design","","<NA>"
+"bachelor","bachelor","bachelor 2nd upper,communication studies","","<NA>"
+"bachelor","bachelor","bachelor hons in business management with communications","business management","business management"
+"bachelor","bachelor","bachelor business administration,human resource management","","<NA>"
+"bachelor","bachelor","bachelor businessit and management","","<NA>"
+"bachelor","bachelor","bachelor mass communication","","<NA>"
+"bachelor","bachelor","bachelor,business management and accountancy","business management","business management"
+"bachelor","bachelor","bachelor,business studies marketing","","<NA>"
+"bachelor","bachelor","bachelor,public relations image management","","<NA>"
+"bachelor","bachelor","bachelor graduate diploma,computer science engineering","computer science","computer science"
+"bachelor","bachelor","bachelor arts and science,specialisation in communications studies,television production minor in political science","performing arts","performing arts"
+"bachelor","bachelor","bachelor business administration b ba,international marketing tvu","","<NA>"
+"bachelor","bachelor","bachelor business adminstration,business administration","business administration","business administration"
+"bachelor","bachelor","bachelor business management,operations management analytics and strategic management","business management","business management"
+"bachelor","bachelor","bachelor communication and media studies","media studies","media studies"
+"bachelor","bachelor","bachelor film and tv,bachelor film and tv","","<NA>"
+"bachelor","bachelor","bachelor graphic design,graphic design","","<NA>"
+"bachelor","bachelor","bachelor mechanical engineering","","<NA>"
+"bachelor","bachelor","bachelor occupational safety and health with honor,safety","","<NA>"
+"bachelor","bachelor","bachelor science hons management,marketing marketing management,general","","<NA>"
+"bachelor","bachelor","bachelor technology,information technology","","<NA>"
+"bachelor","bachelor","bachelor accountancy and business marketing","accounting","accounting"
+"bachelor","bachelor","bachelor accountancy with hons,accountancy","accounting","accounting"
+"bachelor","bachelor","bachelor accountancy,2nd major in analytics accounting","accounting","accounting"
+"bachelor","bachelor","bachelor accountancy,accounting","accounting","accounting"
+"bachelor","bachelor","bachelor accountancy,accounting and finance","accounting","accounting"
+"bachelor","bachelor","bachelor agriculture,agronomy","","<NA>"
+"bachelor","bachelor","bachelor applied engineering,civil engineering","civil engineering","civil engineering"
+"bachelor","bachelor","bachelor applied science basc,computer and information sciences and support services","","<NA>"
+"bachelor","bachelor","bachelor applied science ba sc,business administration and management,general","","<NA>"
+"bachelor","bachelor","bachelor applied science ba sc,business,economics and social sciences","","<NA>"
+"bachelor","bachelor","bachelor applied science ba sc,communication studies","","<NA>"
+"bachelor","bachelor","bachelor applied science ba sc,computer engineering","","<NA>"
+"bachelor","bachelor","bachelor applied science ba sc,electrical and electronics engineering","","<NA>"
+"bachelor","bachelor","bachelor applied science basc,business,management,marketing,and related support services","","<NA>"
+"bachelor","bachelor","bachelor arts ba","","<NA>"
+"bachelor","bachelor","bachelor arts ba hons,political science","political science","political science"
+"bachelor","bachelor","bachelor arts ba hons,international global studies","","<NA>"
+"bachelor","bachelor","bachelor arts ba,art history,french","","<NA>"
+"bachelor","bachelor","bachelor arts ba,business administration and management,general","","<NA>"
+"bachelor","bachelor","bachelor arts ba,business administration,management and operations","","<NA>"
+"bachelor","bachelor","bachelor arts ba,business management","business management","business management"
+"bachelor","bachelor","bachelor arts ba,business with human resource management","","<NA>"
+"bachelor","bachelor","bachelor arts ba,communication and media studies","media studies","media studies"
+"bachelor","bachelor","bachelor arts ba,communication and media,journalism","media studies","media studies"
+"bachelor","bachelor","bachelor arts ba,communications and new media","media studies","media studies"
+"bachelor","bachelor","bachelor arts ba,design and visual communications,general","languages and literature","languages and literature"
+"bachelor","bachelor","bachelor arts ba,english language","languages and literature","languages and literature"
+"bachelor","bachelor","bachelor arts ba,english language and literature,general","languages and literature","languages and literature"
+"bachelor","bachelor","bachelor arts ba,english language and literature letters with an emphasis in creative writing","languages and literature","languages and literature"
+"bachelor","bachelor","bachelor arts ba,history minor in communication studies","","<NA>"
+"bachelor","bachelor","bachelor arts ba,international business","","<NA>"
+"bachelor","bachelor","bachelor arts ba,international relations and affairs","","<NA>"
+"bachelor","bachelor","bachelor arts ba,journalism","","<NA>"
+"bachelor","bachelor","bachelor arts ba,language and communication","languages and literature","languages and literature"
+"bachelor","bachelor","bachelor arts ba,linguistics","languages and literature","languages and literature"
+"bachelor","bachelor","bachelor arts ba,mass communication media studies","media studies","media studies"
+"bachelor","bachelor","bachelor arts ba,oriental languages and cultures","","<NA>"
+"bachelor","bachelor","bachelor arts ba,philosophy","philosophy","philosophy"
+"bachelor","bachelor","bachelor arts ba,philosophy and politics","philosophy","philosophy"
+"bachelor","bachelor","bachelor arts ba,public relations and marketing","marketing","marketing"
+"bachelor","bachelor","bachelor arts ba,sociology","sociology","sociology"
+"bachelor","bachelor","bachelor arts ba,theatre theater","","<NA>"
+"bachelor","bachelor","bachelor arts ba,tourism and events management hospitality and tourism management","","<NA>"
+"bachelor","bachelor","bachelor arts ba,translation","","<NA>"
+"bachelor","bachelor","bachelor arts ba hons,business with tourism","","<NA>"
+"bachelor","bachelor","bachelor arts ba","","<NA>"
+"bachelor","bachelor","bachelor arts ba hons,business and management","business management","business management"
+"bachelor","bachelor","bachelor arts ba in design communication,graphic design","","<NA>"
+"bachelor","bachelor","bachelor arts ba,advertising","","<NA>"
+"bachelor","bachelor","bachelor arts ba,advertising and marketing","","<NA>"
+"bachelor","bachelor","bachelor arts ba,arts,entertainment,and media management","","<NA>"
+"bachelor","bachelor","bachelor arts ba,behavioral studies","","<NA>"
+"bachelor","bachelor","bachelor arts ba,business and human resources management","human resources","human resources"
+"bachelor","bachelor","bachelor arts ba,business studies","","<NA>"
+"bachelor","bachelor","bachelor arts ba,communication and media studies","media studies","media studies"
+"bachelor","bachelor","bachelor arts ba,communications","","<NA>"
+"bachelor","bachelor","bachelor arts ba,computer science","computer science","computer science"
+"bachelor","bachelor","bachelor arts ba,creative writing and english double major with an environmental studies minor","","<NA>"
+"bachelor","bachelor","bachelor arts ba,double major in communication and media studies,economics","media studies","media studies"
+"bachelor","bachelor","bachelor arts ba,economics","economics","economics"
+"bachelor","bachelor","bachelor arts ba,economics,chinese studies,philiosophy","","<NA>"
+"bachelor","bachelor","bachelor arts ba,economics,sociology","sociology","sociology"
+"bachelor","bachelor","bachelor arts ba,english language and literature,general","","<NA>"
+"bachelor","bachelor","bachelor arts ba,english literature british and commonwealth","english literature","english literature"
+"bachelor","bachelor","bachelor arts ba,english literature philosophy","","<NA>"
+"bachelor","bachelor","bachelor arts ba,finance","finance","finance"
+"bachelor","bachelor","bachelor arts ba,french and german","","<NA>"
+"bachelor","bachelor","bachelor arts ba,international studies","","<NA>"
+"bachelor","bachelor","bachelor arts ba,international studies economics","","<NA>"
+"bachelor","bachelor","bachelor arts ba,law and management science","law","law"
+"bachelor","bachelor","bachelor arts ba,major in english,minor in linguistics","","<NA>"
+"bachelor","bachelor","bachelor arts ba,marketing","marketing","marketing"
+"bachelor","bachelor","bachelor arts ba,mass communication media studies","media studies","media studies"
+"bachelor","bachelor","bachelor arts ba,philosophy and english","","<NA>"
+"bachelor","bachelor","bachelor arts ba,psychology","psychology","psychology"
+"bachelor","bachelor","bachelor arts ba,visual communications design","","<NA>"
+"bachelor","bachelor","bachelor arts ba hons,psychology","psychology","psychology"
+"bachelor","bachelor","bachelor arts ba,anthropology","anthropology","anthropology"
+"bachelor","bachelor","bachelor arts ba,contemporary music studies","","<NA>"
+"bachelor","bachelor","bachelor arts ba,economics","economics","economics"
+"bachelor","bachelor","bachelor arts ba,english language and literature,general","","<NA>"
+"bachelor","bachelor","bachelor arts ba,fiction writing,creative nonfiction,research,photography","","<NA>"
+"bachelor","bachelor","bachelor arts ba,graphic communications","","<NA>"
+"bachelor","bachelor","bachelor arts ba,ho chi minh city university of technology school of industrial management","","<NA>"
+"bachelor","bachelor","bachelor arts ba,politics and international relations","","<NA>"
+"bachelor","bachelor","bachelor arts ba,psychology,communications and new media","","<NA>"
+"bachelor","bachelor","bachelor arts ba,sociology","sociology","sociology"
+"bachelor","bachelor","bachelor arts honors in industrial design,industrial design","","<NA>"
+"bachelor","bachelor","bachelor arts hons,arts and social sciences","","<NA>"
+"bachelor","bachelor","bachelor arts hons,second upper,english language","","<NA>"
+"bachelor","bachelor","bachelor arts hons,english language and literature,general","","<NA>"
+"bachelor","bachelor","bachelor arts hons,journalism and mass communication","","<NA>"
+"bachelor","bachelor","bachelor arts and bachelor education,drama and english","","<NA>"
+"bachelor","bachelor","bachelor arts and social sciences,political science,philosophy,english literature","english literature","english literature"
+"bachelor","bachelor","bachelor arts and social sciences ba hons,psychology","psychology","psychology"
+"bachelor","bachelor","bachelor arts and social sciences,communications and new media","","<NA>"
+"bachelor","bachelor","bachelor arts and social sciences,english language","","<NA>"
+"bachelor","bachelor","bachelor arts in psychology with business","","<NA>"
+"bachelor","bachelor","bachelor arts with hons,international marketing","","<NA>"
+"bachelor","bachelor","bachelor arts with merit,political science","political science","political science"
+"bachelor","bachelor","bachelor arts,anthropology and psychology","","<NA>"
+"bachelor","bachelor","bachelor arts,communication and media management","","<NA>"
+"bachelor","bachelor","bachelor arts,cultural studies","","<NA>"
+"bachelor","bachelor","bachelor arts,economics","economics","economics"
+"bachelor","bachelor","bachelor arts,economics and political science","","<NA>"
+"bachelor","bachelor","bachelor arts,english and journalism","","<NA>"
+"bachelor","bachelor","bachelor arts,mass communications","","<NA>"
+"bachelor","bachelor","bachelor arts,political science","political science","political science"
+"bachelor","bachelor","bachelor business hons","","<NA>"
+"bachelor","bachelor","bachelor business hons,marketing","marketing","marketing"
+"bachelor","bachelor","bachelor business hons,marketing","marketing","marketing"
+"bachelor","bachelor","bachelor business marketing,marketing","marketing","marketing"
+"bachelor","bachelor","bachelor business admin finance,business administration and management,general","","<NA>"
+"bachelor","bachelor","bachelor business administration ","","<NA>"
+"bachelor","bachelor","bachelor business administration  hons,business administration and management,general","","<NA>"
+"bachelor","bachelor","bachelor business administration  hons,business administration","","<NA>"
+"bachelor","bachelor","bachelor business administration  marketing,with a second major in communications and new media","","<NA>"
+"bachelor","bachelor","bachelor business administration ,accounting and business management","","<NA>"
+"bachelor","bachelor","bachelor business administration ,accounting,operations management","operations management","operations management"
+"bachelor","bachelor","bachelor business administration ,banking and finance","","<NA>"
+"bachelor","bachelor","bachelor business administration ,business administration","","<NA>"
+"bachelor","bachelor","bachelor business administration ,business administration and management,general","","<NA>"
+"bachelor","bachelor","bachelor business administration ,business,management,marketing,and related support services","","<NA>"
+"bachelor","bachelor","bachelor business administration ,business corporate communications","","<NA>"
+"bachelor","bachelor","bachelor business administration ,finance and financial management services","","<NA>"
+"bachelor","bachelor","bachelor business administration ,finance,general","","<NA>"
+"bachelor","bachelor","bachelor business administration ,first class hons","","<NA>"
+"bachelor","bachelor","bachelor business administration ,global business and marketing","","<NA>"
+"bachelor","bachelor","bachelor business administration ,information management internet service and social networks","information management","information management"
+"bachelor","bachelor","bachelor business administration ,international business and chinese enterprise","","<NA>"
+"bachelor","bachelor","bachelor business administration ,international business management","","<NA>"
+"bachelor","bachelor","bachelor business administration ,management information systems,general","","<NA>"
+"bachelor","bachelor","bachelor business administration ,marketing","marketing","marketing"
+"bachelor","bachelor","bachelor business administration ,marketing and information system","","<NA>"
+"bachelor","bachelor","bachelor business administration ,marketing communications","","<NA>"
+"bachelor","bachelor","bachelor business administration finance","","<NA>"
+"bachelor","bachelor","bachelor business administration b ba 2007,2010 international business and marketing","","<NA>"
+"bachelor","bachelor","bachelor business administration b ba magna cum laude,marketing","marketing","marketing"
+"bachelor","bachelor","bachelor business administration b ba with merit,marketing","marketing","marketing"
+"bachelor","bachelor","bachelor business administration b ba,business administration","business administration","business administration"
+"bachelor","bachelor","bachelor business administration b ba,business administration and management,general","business administration","business administration"
+"bachelor","bachelor","bachelor business administration b ba,business economics international business","business administration","business administration"
+"bachelor","bachelor","bachelor business administration b ba,business operations management","business administration","business administration"
+"bachelor","bachelor","bachelor business administration b ba,business,management and marketing","marketing","marketing"
+"bachelor","bachelor","bachelor business administration b ba,business,management,marketing,and related support services","business","business"
+"bachelor","bachelor","bachelor business administration b ba,fiance and banking","","<NA>"
+"bachelor","bachelor","bachelor business administration b ba,finance,general","","<NA>"
+"bachelor","bachelor","bachelor business administration b ba,international business trade commerce","","<NA>"
+"bachelor","bachelor","bachelor business administration b ba,marketing","marketing","marketing"
+"bachelor","bachelor","bachelor business administration b ba,marketing and human resource management","human resources","human resources"
+"bachelor","bachelor","bachelor business administration b ba,marketing and technopreneurship","marketing","marketing"
+"bachelor","bachelor","bachelor business administration b ba,marketing major","marketing","marketing"
+"bachelor","bachelor","bachelor business administration b ba,marketing marketing management,general","marketing","marketing"
+"bachelor","bachelor","bachelor business administration ","","<NA>"
+"bachelor","bachelor","bachelor business administration  first class hons,tourism and hospitality management,human resources consulting","human resources","human resources"
+"bachelor","bachelor","bachelor business administration  ibgm,global business and finance","","<NA>"
+"bachelor","bachelor","bachelor business administration ,accounting","accounting","accounting"
+"bachelor","bachelor","bachelor business administration ,accounting and finance","","<NA>"
+"bachelor","bachelor","bachelor business administration ,business","business","business"
+"bachelor","bachelor","bachelor business administration ,business administration and management,general","","<NA>"
+"bachelor","bachelor","bachelor business administration ,business managerial economics","","<NA>"
+"bachelor","bachelor","bachelor business administration ,human resources development","human resources","human resources"
+"bachelor","bachelor","bachelor business administration ,human resources management and services","human resources","human resources"
+"bachelor","bachelor","bachelor business administration ,international business and global management","","<NA>"
+"bachelor","bachelor","bachelor business administration ,international business,marketing,management","","<NA>"
+"bachelor","bachelor","bachelor business administration ,marketing","marketing","marketing"
+"bachelor","bachelor","bachelor business administration ,marketing marketing management,general","","<NA>"
+"bachelor","bachelor","bachelor business administration ,professional accounting organizational management","","<NA>"
+"bachelor","bachelor","bachelor business administration honors","","<NA>"
+"bachelor","bachelor","bachelor business administration honors","business","business"
+"bachelor","bachelor","bachelor business administration hons,accountancy and finance","","<NA>"
+"bachelor","bachelor","bachelor business administration hons,business,major in marketing","","<NA>"
+"bachelor","bachelor","bachelor business administration hons,operations and supply chain management,and management and human capital","","<NA>"
+"bachelor","bachelor","bachelor business administration and analytics ,business,management,analytics,statistics","","<NA>"
+"bachelor","bachelor","bachelor business administration,marketing and management","","<NA>"
+"bachelor","bachelor","bachelor business and commerce,accounting and finance","","<NA>"
+"bachelor","bachelor","bachelor business and commerce,marketing banking and finance","","<NA>"
+"bachelor","bachelor","bachelor business information systems bachelor business,finance,general","","<NA>"
+"bachelor","bachelor","bachelor business management","business management","business management"
+"bachelor","bachelor","bachelor business management bbm,finance","business management","business management"
+"bachelor","bachelor","bachelor business management bbm,marketing","business management","business management"
+"bachelor","bachelor","bachelor business management,business administration and management,general","business management","business management"
+"bachelor","bachelor","bachelor business management bbm,finance","finance","finance"
+"bachelor","bachelor","bachelor business management bbm,finance major","business","business"
+"bachelor","bachelor","bachelor business management bbm,marketing and finance","business management","business management"
+"bachelor","bachelor","bachelor business management hons,marketing and corporate communications","business","business"
+"bachelor","bachelor","bachelor business management hons,human resource,management and marketing","business management","business management"
+"bachelor","bachelor","bachelor business management,double majors in finance and corporate communications","business management","business management"
+"bachelor","bachelor","bachelor business management,investment finance and strategic management,cum laude","business management","business management"
+"bachelor","bachelor","bachelor business management,marketing","business management","business management"
+"bachelor","bachelor","bachelor business management,marketing and corporate communications","business management","business management"
+"bachelor","bachelor","bachelor business management,marketing and operations management","business management","business management"
+"bachelor","bachelor","bachelor business management,marketing corporate communication","business management","business management"
+"bachelor","bachelor","bachelor business management,organisational behaviour and human resources","human resources","human resources"
+"bachelor","bachelor","bachelor business managment,international business","","<NA>"
+"bachelor","bachelor","bachelor business studies,management","","<NA>"
